@@ -1,0 +1,64 @@
+.layui-body {
+    overflow: hidden;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+/* 字体图标 */
+
+.iconfont, .layui-icon {
+    margin-right: 10px;
+}
+
+.layui-nav-child dd {
+    padding-left: 10px;
+}
+
+/* 头像 */
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.info {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.text-avatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    vertical-align: middle;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #009688;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.nikename {
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+/* 底部区域 */
+
+.layui-footer {
+    font-size: 12px;
+    text-align: center;
+}
